@@ -1,6 +1,6 @@
 \# Movie Recommendation System
 
-### LIVE DEMO : 
+### LIVE DEMO : https://codectechnologiesmovie-recommendation-system-gcujrbakatmxqmqxj.streamlit.app/
 
 
 A simple Python project that recommends movies based on genre.
